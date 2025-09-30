@@ -1,6 +1,6 @@
 from openai import OpenAI
 
-# Hardcode your API key (⚠️ don't commit this to GitHub!)
+# Hardcode your API key
 client = OpenAI(api_key="YOUR_API_KEY_HERE")
 
 conversation = [
